@@ -1,0 +1,603 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"noti",
+				"notification_name"
+			],
+			[
+				"notifi",
+				"notification_parameter"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"Ac",
+				"ActuatorData"
+			],
+			[
+				"Actua",
+				"ActuatorDataSerializer"
+			],
+			[
+				"Act",
+				"ActuatorSerializer	import"
+			],
+			[
+				"Sens",
+				"SensorDataSerializer"
+			],
+			[
+				"netw",
+				"network_list	function"
+			],
+			[
+				"JSON",
+				"JSONRenderer〔module〕"
+			],
+			[
+				"JSONRe",
+				"JSONResponse	class"
+			],
+			[
+				"JSONR",
+				"JSONResponse	class"
+			],
+			[
+				"Net",
+				"NetworkSerializer	class"
+			],
+			[
+				"HttpR",
+				"HttpResponse	class"
+			],
+			[
+				"Ne",
+				"NetworkSerializer	class"
+			],
+			[
+				"Form",
+				"FormView	class"
+			],
+			[
+				"Network",
+				"NetworkActionMixin	class"
+			],
+			[
+				"Sensor",
+				"SensorInline	class"
+			],
+			[
+				"Actuato",
+				"ActuatorInline	class"
+			],
+			[
+				"Fo",
+				"ForeignKey"
+			],
+			[
+				"Senso",
+				"SensorInline"
+			],
+			[
+				"Actu",
+				"ActuatorAdmin"
+			],
+			[
+				"fiel",
+				"fieldsets"
+			],
+			[
+				"Node",
+				"NodeAdmin"
+			],
+			[
+				"Netow",
+				"NetworkAdmin"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "hello.py",
+			"settings":
+			{
+				"buffer_size": 514,
+				"line_ending": "Unix",
+				"name": "from flask import Flask"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 96.0,
+		"last_filter": "remove",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax: jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"typescript",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"indentation",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/cory/Documents/Projects/EmbeddedCI"
+	],
+	"file_history":
+	[
+		"/home/cory/Documents/Projects/EmbeddedCI/hello.py",
+		"/home/cory/Documents/education/python/Up and Running With Python/Ex_Files_UaR_Python/Exercise Files/Ch2/helloworld_start.py",
+		"/mnt/dust_gateway/home/ubuntu/smartmeshsdk/app/Connect/Connect.py",
+		"/mnt/dust_gateway/home/ubuntu/smartmeshsdk/app/Connect/betterConnect.py",
+		"/home/cory/Dropbox/senior project/connect.py",
+		"/mnt/dust_gateway/home/ubuntu/smartmeshsdk/libs/SmartMeshSDK/IpMgrConnectorSerial/IpMgrConnectorSerial.py",
+		"/mnt/dust_gateway/home/ubuntu/smartmeshsdk/app/Simple/SimpleIPMgr.py",
+		"/home/cory/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/mnt/dust_gateway/home/ubuntu/smartmeshsdk/README.md",
+		"/home/cory/.ssh/config",
+		"/home/cory/Documents/education/Angular2/angular2-app/app/app.component.js",
+		"/home/cory/Documents/education/Angular2/angular2-app/dev/app.component.ts",
+		"/home/cory/Documents/education/Angular2/angular2-app/assets/scss/app.scss",
+		"/home/cory/Documents/education/Angular2/angular2-app/src/css/app.css",
+		"/home/cory/Documents/education/Angular2/angular2-app/dev/puzzle/puzzle.component.ts",
+		"/home/cory/.virtualenvs/overlord/bin/postactivate",
+		"/home/cory/.ssh/known_hosts",
+		"/home/cory/.ssh/id_rsa.pub",
+		"/home/cory/.virtualenvs/overlord/bin/activate",
+		"/home/cory/.virtualenvs/overlord/pip-selfcheck.json",
+		"/home/cory/.virtualenvs/overlord/bin/preactivate",
+		"/home/cory/.virtualenvs/overlord/bin/activate.csh",
+		"/home/cory/Documents/education/Angular2/angular2-app/dev/my-component.component.ts",
+		"/home/cory/Documents/education/Angular2/angular2-app/templates/test.tpl.html",
+		"/home/cory/Documents/education/Angular2/angular2-app/src/css/mycomponent.css",
+		"/home/cory/Documents/education/Angular2/angular2-app/dev/test.component.ts",
+		"/home/cory/Documents/education/typescript/typescript/01-Typing/tsconfig.json",
+		"/home/cory/Documents/education/Angular2/angular2-app/dev/boot.ts",
+		"/home/cory/Documents/education/Angular2/angular2-app/index.html",
+		"/home/cory/.cache/.fr-FS78kN/typescript/01-Typing/typing.ts",
+		"/home/cory/Documents/education/typescript/typescript/01-Typing/typing.ts",
+		"/home/cory/Documents/education/typescript/typescript/01-Typing/typing.js",
+		"/home/cory/.config/sublime-text-3/Packages/ArcticTypescript/README.md",
+		"/home/cory/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/cory/Documents/Projects/SmartMeshSdk/smartmeshsdk-REL-1.0.4.110/bin/TempMonitor/TempMonitor.py",
+		"/home/cory/Documents/Projects/DustManager/home/ubuntu/dustlink/SmartMeshSDK/ApiDefinition/ApiDefinition.py",
+		"/home/cory/Documents/Projects/DustManager/home/ubuntu/new_dust/src/core/settings.h",
+		"/home/cory/Documents/Projects/DustManager/home/ubuntu/dustlink/views/web/dustWeb/keys/README.txt",
+		"/home/cory/Documents/Projects/DustManager/home/ubuntu/dustlink/requirements.txt",
+		"/home/cory/Downloads/serial-mux_1.1.2.15/serial_mux/serial_mux.h",
+		"/home/cory/Downloads/serial-mux_1.1.2.15/serial_mux/serial_mux.cpp",
+		"/home/cory/Downloads/serial-mux_1.1.2.15/serial_mux/ReadMe.txt",
+		"/home/cory/Downloads/serial-mux_1.1.2.15/serial_mux/HDLC.cpp",
+		"/home/cory/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/cory/Documents/Projects/temp/get-pip.py",
+		"/home/cory/.cache/.fr-noNMUY/serialmux-boost-1.46.1-libs/LICENSE",
+		"/home/cory/.config/sublime-text-3/Packages/User/Plain text.sublime-settings",
+		"/media/cory/BOOT/uEnv.txt",
+		"/media/cory/BOOT/bbb-uEnv.txt",
+		"/media/cory/BOOT/nfs-uEnv.txt",
+		"/home/cory/Documents/Projects/overlord/overlord/actuators/views.py",
+		"/home/cory/Documents/Projects/overlord/overlord/sensors/views.py",
+		"/home/cory/Documents/Projects/overlord/overlord/core/permissions.py",
+		"/home/cory/Documents/Projects/overlord/overlord/networks/views.py",
+		"/home/cory/Documents/Projects/overlord/overlord/nodes/views.py",
+		"/home/cory/Documents/Projects/overlord/overlord/core/api.py",
+		"/home/cory/Documents/Projects/overlord/overlord/actuators/serializers.py",
+		"/home/cory/Documents/Projects/overlord/overlord/sensors/serializers.py",
+		"/home/cory/Documents/Projects/overlord/overlord/sensors/models.py",
+		"/home/cory/Documents/Projects/overlord/overlord/nodes/serializers.py",
+		"/home/cory/Documents/Projects/overlord/overlord/users/urls.py",
+		"/home/cory/Documents/Projects/overlord/overlord/networks/urls.py",
+		"/home/cory/Documents/Projects/overlord/config/settings/common.py",
+		"/home/cory/Documents/Projects/overlord/config/urls.py",
+		"/home/cory/Documents/Projects/overlord/requirements.txt",
+		"/home/cory/Documents/Projects/overlord/manage.py",
+		"/home/cory/Documents/Projects/overlord/config/settings/local.py",
+		"/home/cory/Documents/Projects/overlord/config/settings/production.py",
+		"/home/cory/Documents/Projects/overlord/Procfile",
+		"/home/cory/Documents/Projects/overlord/env.example",
+		"/home/cory/Documents/Projects/overlord/docs/conf.py",
+		"/home/cory/Documents/Projects/overlord/requirements/production.txt",
+		"/home/cory/Documents/Projects/overlord/overlord/users/views.py",
+		"/home/cory/Documents/Projects/overlord/overlord/users/serializers.py",
+		"/home/cory/Documents/Projects/python-getting-started/requirements.txt",
+		"/home/cory/Documents/Projects/overlord/requirements.apt",
+		"/home/cory/Documents/Projects/python-getting-started/.env",
+		"/home/cory/Documents/Projects/python-getting-started/hello/views.py",
+		"/home/cory/Documents/Projects/python-getting-started/Procfile",
+		"/home/cory/Documents/Projects/overlord/overlord/networks/models.py",
+		"/home/cory/Documents/Projects/overlord/overlord/networks/serializers.py",
+		"/home/cory/Documents/Projects/overlord/runtime.txt",
+		"/home/cory/Documents/Projects/overlord/overlord/networks/permissions.py",
+		"/home/cory/Documents/Projects/overlord/overlord/actuators/models.py",
+		"/home/cory/Documents/Projects/overlord/overlord/nodes/models.py",
+		"/home/cory/Documents/Projects/overlord/requirements/test.txt",
+		"/home/cory/Documents/Projects/overlord/requirements/local.txt",
+		"/home/cory/Documents/Projects/overlord/requirements/base.txt",
+		"/home/cory/.bashrc",
+		"/home/cory/Documents/Projects/overlord/overlord/templates/networks/network_list.html",
+		"/home/cory/Documents/Projects/overlord/networks/forms.py",
+		"/home/cory/Documents/Projects/overlord/networks/urls.py",
+		"/home/cory/Documents/Projects/overlord/networks/models.py",
+		"/home/cory/Documents/Projects/overlord/overlord/templates/networks/network_form.html",
+		"/home/cory/Documents/Projects/overlord/networks/views.py",
+		"/home/cory/Documents/Projects/overlord/overlord/templates/networks/network_create.html",
+		"/home/cory/Documents/Projects/overlord/overlord/templates/actuators/actuator_list.html",
+		"/home/cory/Documents/Projects/overlord/overlord/templates/actuators/actuator_detail.html",
+		"/home/cory/Documents/Projects/overlord/overlord/templates/sensors/sensor_detail.html",
+		"/home/cory/Documents/Projects/overlord/overlord/templates/sensors/sensor_list.html",
+		"/home/cory/Documents/Projects/overlord/overlord/templates/nodes/node_detail.html",
+		"/home/cory/Documents/Projects/overlord/sensors/admin.py",
+		"/home/cory/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/cory/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/cory/Documents/Projects/overlord/actuators/admin.py",
+		"/home/cory/Documents/Projects/overlord/sensors/models.py",
+		"/home/cory/Documents/Projects/overlord/actuators/models.py",
+		"/home/cory/Documents/Projects/overlord/sensors/urls.py",
+		"/home/cory/Documents/Projects/overlord/actuators/urls.py",
+		"/home/cory/Documents/Projects/overlord/sensors/views.py",
+		"/home/cory/Documents/Projects/overlord/nodes/views.py",
+		"/home/cory/Documents/Projects/overlord/actuators/views.py",
+		"/home/cory/Documents/Projects/overlord/nodes/urls.py",
+		"/home/cory/Documents/Projects/overlord/actuators/tests.py",
+		"/home/cory/Documents/Projects/overlord/overlord/templates/networks/network_detail.html",
+		"/home/cory/Documents/Projects/overlord/sensors/tests.py",
+		"/home/cory/Documents/Projects/overlord/overlord/templates/nodes/node_list.html",
+		"/home/cory/Documents/Projects/overlord/nodes/admin.py",
+		"/home/cory/Documents/Projects/overlord/networks/admin.py",
+		"/home/cory/Documents/Projects/overlord/devices/admin.py",
+		"/home/cory/Documents/Projects/overlord/core/admin.py",
+		"/home/cory/Documents/Projects/overlord/devices/models.py",
+		"/home/cory/Documents/Projects/overlord/nodes/models.py",
+		"/home/cory/Documents/Projects/overlord/overlord.sublime-project",
+		"/home/cory/Documents/Projects/overlord/devices/urls.py",
+		"/home/cory/Documents/Projects/overlord/q",
+		"/home/cory/Documents/Projects/iotm/devices/templates/devices/index.html",
+		"/home/cory/Documents/Projects/overlord/CONTRIBUTORS.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"serialport",
+			"ipmgrsubscribe",
+			"connect(",
+			"connect",
+			"32px",
+			"setup",
+			"update",
+			"my-app",
+			"lint",
+			"xively",
+			"google",
+			"xively",
+			"log",
+			"xivelyy",
+			"xivelysyncen",
+			"xivelysyncengine",
+			"processmotedata",
+			"database",
+			"getdata",
+			"datalock",
+			"enter",
+			"datalock",
+			"enter",
+			"updategateway",
+			"goon",
+			"dustlink",
+			"print_help",
+			"getopt",
+			" ",
+			"std",
+			"size_t",
+			"Network",
+			"network",
+			"Network",
+			"network",
+			"sensor",
+			"example.com",
+			"correct",
+			"ex",
+			"example.com",
+			"mailgun",
+			"owner_id",
+			"static",
+			"aws",
+			"template",
+			"base_dir",
+			"static",
+			"debug_toolbar",
+			"settings",
+			"debug_toolbar",
+			"allowed_hosts",
+			"env",
+			"secret",
+			"allowed_hosts",
+			"base_dir",
+			"# REST_FRAMEWORK = {\n#     'DEFAULT_PERMISSION_CLASSES': ('rest_framework.permissions.IsAdminUser',),\n#     'PAGE_SIZE': 10\n# }",
+			"user",
+			"auth_user_model",
+			"generics",
+			"append",
+			"sec",
+			"\n",
+			"sensor",
+			"node",
+			"actuator",
+			"nodes",
+			"network",
+			"devices",
+			"Sensor",
+			"Node",
+			"Sensor",
+			"Network",
+			"ctrl+shift+k",
+			"ctrl+shift+d",
+			"ctrl+shift+c",
+			"ctrl+shift+q",
+			"ctrl+shift+g",
+			"ctrl+shift+a",
+			"ctrl+shift+r",
+			"ctrl+shift+d",
+			"ctrl+shift+f",
+			"network",
+			"Network",
+			"nodeinline",
+			"User",
+			"next",
+			"email",
+			"settings",
+			"common",
+			"local",
+			"postgres",
+			"local",
+			"installed",
+			"python",
+			"errors",
+			"new",
+			"window",
+			"tab",
+			"new",
+			".",
+			"admin.site",
+			"modified",
+			"white_spa",
+			"behaviors",
+			"\n",
+			"better_books",
+			"better_bodies",
+			"data="
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\n",
+			"Actuator",
+			"Sensor",
+			"Node",
+			"Actuator",
+			"actuator",
+			" ",
+			"actuator",
+			"sensor",
+			"Actuator",
+			"actuator",
+			"sensor",
+			"ensor",
+			"Sensor",
+			"Actuator",
+			"Sensor",
+			"node",
+			"Node",
+			"node",
+			"Node",
+			"Network",
+			"error",
+			"admin_site",
+			" ",
+			"#data="
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "hello.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 514,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								349,
+								349
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "from flask import Flask",
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "EmbeddedCI.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Projects/overlord/overlord.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 271.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
